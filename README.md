@@ -3,13 +3,12 @@
   ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Hello+World!)
 
 ## K-SRHS
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&link=https://github.com/K-SRHS&logoColor=white">
+<a href=https://github.com/K-SRHS><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&link=https://github.com/K-SRHS&logoColor=white"></a>
 
 * * *
   
 ####  :clipboard: Once I've Used 
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
