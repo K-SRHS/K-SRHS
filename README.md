@@ -4,7 +4,7 @@
 
 ## K-SRHS
 <br>
-<a href=https://github.com/K-SRHS><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&link=https://github.com/K-SRHS&logoColor=white"></a>
+<a href=https://github.com/K-SRHS><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href=https://velog.io/@yunho000331/posts><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&link=https://github.com/K-SRHS&logoColor=white"></a>
 <br>
 
