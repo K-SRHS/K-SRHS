@@ -37,6 +37,6 @@
 <br>
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-SRHS&count_bg=%234CA435&title_bg=%233F71A6&icon=reverbnation.svg&icon_color=%23FFFFFF&title=thanks&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-SRHS&count_bg=%234CA435&title_bg=%233F71A6&icon=reverbnation.svg&icon_color=%23FFFFFF&title=thanks&edge_flat=false)](https://velog.io/@yunho000331/posts)
 
 </div>
